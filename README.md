@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/cdoucet303/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cdoucet303/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Preparing Active Directory Infrastructure in Azure](
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/cdoucet303/AD-preparation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cdoucet303/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cdoucet303/azure-network-protocols)
 
