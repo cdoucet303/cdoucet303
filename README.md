@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/cdoucet303/AD-preparation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cdoucet303/configure-ad)
-  - [Active Directory Group Policy and Managing Accounts]
+  - [Active Directory Group Policy and Managing Accounts](https://github.com/cdoucet303/ad-group-policy-account-manage)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cdoucet303/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
