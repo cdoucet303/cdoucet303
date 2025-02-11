@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/cdoucet303/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cdoucet303/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/cdoucet303/AD-preparation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cdoucet303/configure-ad)
   - [Active Directory Group Policy and Managing Accounts](https://github.com/cdoucet303/ad-group-policy-account-manage)
